@@ -6,6 +6,8 @@
 
 Learn ThreeJS (https://threejs.org/)
 
+For images (https://www.solarsystemscope.com/textures/)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React - Environment Setup] instructions till "Creating a new application" step, before proceeding.
