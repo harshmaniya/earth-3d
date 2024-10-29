@@ -4,7 +4,7 @@
 
 # React + Vite
 
-https://threejs.org/
+Learn ThreeJS (https://threejs.org/)
 
 # Getting Started
 
